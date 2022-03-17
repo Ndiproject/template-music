@@ -20,7 +20,7 @@
             "value": ""
         },
         "LOG_GROUP_ID": {
-            "description": "buat grup pribadi dan dapatkan id grup, tambahkan bot Anda sebagai admin ke grup juga",
+            "description": "buat grup pribadi dan dapatkan id grup, tambahkan bot Anda sebagai admin ke grup juga harus awalan id (-100)",
             "required": true,
             "value": ""
         },
@@ -33,11 +33,6 @@
             "description": "your Api Hash from my.telegram.org/apps",
             "required": true,
             "value": ""
-        },
-        "BOT_IMG": {
-            "description": "Foto untuk musik bot kalian",
-            "value": "https://telegra.ph/file/97bf8c516a3380e899921.jpg",
-            "required": true
         },
         "HEROKU_API_KEY": {
             "description": "Kunci API akun Heroku Anda",
