@@ -34,6 +34,11 @@
             "required": true,
             "value": ""
         },
+        "BOT_IMG": {
+            "description": "Photo for your bot",
+            "value": "https://telegra.ph/file/3e39518ae9cddde6b0557.jpg",
+            "required": true
+        },
         "HEROKU_API_KEY": {
             "description": "Kunci API akun Heroku Anda",
             "value": "",
