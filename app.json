@@ -1,8 +1,8 @@
 {
-    "name": "KyyMusic",
-    "description": "Music allow you to stream music trought the telegram voice chat feature.",
+    "name": "Ndi-Music",
+    "description": "Music bot untuk play musik dan streaming video di telegram.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/muhamadrizky16/KyyMusic",
+    "repository": "https://github.com/Ndiproject/Ndi-Music",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
